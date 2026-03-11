@@ -20,6 +20,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rafmojica/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rafmojica/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
