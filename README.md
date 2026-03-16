@@ -7,6 +7,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rafmojica/leetcode/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rafmojica/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
