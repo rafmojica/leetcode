@@ -28,6 +28,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,9 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
