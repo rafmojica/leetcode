@@ -36,6 +36,7 @@ leetcode repository pushing all successful attempts to questions
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -49,5 +50,6 @@ leetcode repository pushing all successful attempts to questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
