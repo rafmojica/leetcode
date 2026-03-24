@@ -1,16 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        parenthesis = {")" : "(", "]" : "[", "}": "{"}
-        for c in s:
-            if c in parenthesis:
-                if stack and stack[-1] == parenthesis[c]:
-                    stack.pop()
-                else:
-                    return False
-            else:
-                stack.append(c)
-        
-        if not stack:
-            return True    
-        return False
+        # at least one (), [], {} pair is guaranteed to be next to each other.
+        while '()' in s or '[]' in s or '{}' in s:
+            s = s.replace ('()', '')
+            s = s.replace ('[]', '')
+            s = s.replace ('{}', '')
+        return s == ''
