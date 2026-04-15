@@ -12,6 +12,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rafmojica/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -54,6 +56,7 @@ leetcode repository pushing all successful attempts to questions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rafmojica/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
