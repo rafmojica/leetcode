@@ -44,6 +44,7 @@ leetcode repository pushing all successful attempts to questions
 | [0141-linked-list-cycle](https://github.com/rafmojica/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ leetcode repository pushing all successful attempts to questions
 | [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rafmojica/leetcode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -88,4 +90,8 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
