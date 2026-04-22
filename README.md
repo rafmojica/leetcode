@@ -36,6 +36,7 @@ leetcode repository pushing all successful attempts to questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
