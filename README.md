@@ -65,6 +65,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/rafmojica/leetcode/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +96,8 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rafmojica/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
