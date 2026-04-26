@@ -36,6 +36,7 @@ leetcode repository pushing all successful attempts to questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
@@ -46,6 +47,7 @@ leetcode repository pushing all successful attempts to questions
 | [0141-linked-list-cycle](https://github.com/rafmojica/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -102,4 +105,24 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rafmojica/leetcode/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
