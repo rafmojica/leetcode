@@ -8,32 +8,32 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        # destructive.
-        # length = n
-        # [0, n-1, 1, n-2, 2, n-3, ...] <-- re-order in this format
         # O(n) time, O(n) space
+        # go to middle of list
+        # reverse second half of list
+        # merge the two results
 
-        # merging two lists, reversing second half of list
-        # getting middle
-        slow = head
+        # get to the middle
         fast = head
-        while fast is not None and fast.next is not None:
+        slow = head
+        while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
 
-        # reverse list from middle
-        curr_slow = slow.next # capture second half
-        slow.next = None # cut it in half.
+        # reverse second half of list [1, 2, 3, 4, 5] --> [5, 4]
+        half = slow.next # [4, 5]
+        slow.next = None
         prev = None
-        while curr_slow: 
-            temp = curr_slow.next
-            curr_slow.next = prev
-            prev = curr_slow
-            curr_slow = temp
+        while half:
+            nxt = half.next # save next temporarily
+            half.next = prev
+            prev = half
+            half = nxt
 
-        # first = [2, 4, 6, 8]
-        # second = [8, 6]
-        # merge two lists, in alternating order --> [2, 8, 4, 6]
+        # merge and alternate two lists
+        # head = [1, 2, 3, 4, 5]
+        # prev = [5, 4]
+        # [1, 5, 2, 4, 3]    
         second = prev
         curr = head
         while second:
