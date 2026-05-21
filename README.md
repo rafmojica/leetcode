@@ -20,6 +20,7 @@ leetcode repository pushing all successful attempts to questions
 | [0002-add-two-numbers](https://github.com/rafmojica/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rafmojica/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ leetcode repository pushing all successful attempts to questions
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rafmojica/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
