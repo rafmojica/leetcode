@@ -38,6 +38,7 @@ leetcode repository pushing all successful attempts to questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ leetcode repository pushing all successful attempts to questions
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
