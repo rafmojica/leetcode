@@ -4,11 +4,11 @@ class Solution:
         for right in range(k):
             curr += nums[right]
             
-        ans = curr / k
+        ans = curr
             
         for right in range(k, len(nums)):
             curr += nums[right] - nums[right - k]
-            ans = max(ans, curr / k)
+            ans = max(ans, curr)
             
-        return ans
+        return ans / k
     
