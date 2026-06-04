@@ -42,6 +42,7 @@ leetcode repository pushing all successful attempts to questions
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rafmojica/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -78,6 +79,7 @@ leetcode repository pushing all successful attempts to questions
 | [0278-first-bad-version](https://github.com/rafmojica/leetcode/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -140,8 +142,10 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
