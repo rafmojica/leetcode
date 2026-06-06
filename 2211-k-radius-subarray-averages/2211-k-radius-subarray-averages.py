@@ -1,21 +1,20 @@
 class Solution:
     def getAverages(self, nums: List[int], k: int) -> List[int]:
-        if 2*k >= len(nums):
-            return [-1] * len(nums)
-        
+        if k == 0:
+            return nums
+
+        window_size = 2*k + 1
+        n = len(nums)
         result = [-1] * len(nums)
-        curr = 0
-        currAvg = lambda x: x // (2*k + 1)
-        for i in range(2*k + 1):
-            curr += nums[i]
         
-        center = k
-        
-        for i in range(2*k, len(nums)):
-            result[center] = currAvg(curr)
-            center += 1
-            if i != len(nums) - 1:
-                curr += nums[i + 1] - nums[i - 2*k]
-            
+        if window_size > n:
+            return result
+
+        window_sum = sum(nums[:window_size])
+        result[k] = window_sum // window_size
+
+        for i in range(window_size, n):
+            window_sum += nums[i] - nums[i - window_size]
+            result[i - k] = window_sum // window_size
+
         return result
-        
