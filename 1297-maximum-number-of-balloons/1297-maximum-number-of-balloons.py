@@ -3,21 +3,8 @@ class Solution:
         # create hashmap counting the num of characters.
         # 1 b, 1 a, 2 l, 2 o, 1 n
         freq = {}
-        bCount, aCount, lCount, oCount, nCount = 0, 0, 0, 0, 0
         for c in text:
             freq[c] = freq.get(c, 0) + 1
             
-        for letter in freq:
-            if letter == 'b':
-                bCount = freq.get(letter)
-            if letter == 'a':
-                aCount = freq.get(letter)
-            if letter == 'l':
-                lCount = freq.get(letter)
-            if letter == 'o':
-                oCount = freq.get(letter)
-            if letter == 'n':
-                nCount = freq.get(letter)
-            
-        return min(bCount, aCount, lCount // 2, oCount // 2, nCount)
+        return min(freq.get('b', 0), freq.get('a', 0), freq.get('l', 0) // 2, freq.get('o', 0) // 2, freq.get('n', 0))
         
