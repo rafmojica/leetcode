@@ -41,6 +41,7 @@ leetcode repository pushing all successful attempts to questions
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
@@ -66,6 +67,7 @@ leetcode repository pushing all successful attempts to questions
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [1098-largest-unique-number](https://github.com/rafmojica/leetcode/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -173,6 +175,7 @@ leetcode repository pushing all successful attempts to questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
