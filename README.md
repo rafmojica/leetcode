@@ -35,6 +35,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rafmojica/leetcode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rafmojica/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -61,6 +62,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rafmojica/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@ leetcode repository pushing all successful attempts to questions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
@@ -115,6 +118,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rafmojica/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rafmojica/leetcode/tree/master/0344-reverse-string) |
