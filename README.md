@@ -55,6 +55,7 @@ leetcode repository pushing all successful attempts to questions
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/rafmojica/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/rafmojica/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rafmojica/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -75,6 +76,7 @@ leetcode repository pushing all successful attempts to questions
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ leetcode repository pushing all successful attempts to questions
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Prefix Sum
 |  |
 | ------- |
