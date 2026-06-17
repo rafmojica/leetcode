@@ -73,6 +73,7 @@ leetcode repository pushing all successful attempts to questions
 | [0383-ransom-note](https://github.com/rafmojica/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
+| [0782-jewels-and-stones](https://github.com/rafmojica/leetcode/tree/master/0782-jewels-and-stones) |
 | [1098-largest-unique-number](https://github.com/rafmojica/leetcode/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -131,6 +132,7 @@ leetcode repository pushing all successful attempts to questions
 | [0383-ransom-note](https://github.com/rafmojica/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rafmojica/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/rafmojica/leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
