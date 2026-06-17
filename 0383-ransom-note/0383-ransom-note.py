@@ -7,9 +7,7 @@ class Solution:
 
         for c in ransomNote:
             count[ord(c) - ord('a')] -= 1
-
-        for val in count:
-            if val < 0:
+            if count[ord(c) - ord('a')] < 0:
                 return False
         
         return True
