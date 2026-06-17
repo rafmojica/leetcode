@@ -57,6 +57,7 @@ leetcode repository pushing all successful attempts to questions
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/rafmojica/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rafmojica/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rafmojica/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ leetcode repository pushing all successful attempts to questions
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rafmojica/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ leetcode repository pushing all successful attempts to questions
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/rafmojica/leetcode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rafmojica/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -157,6 +160,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rafmojica/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
