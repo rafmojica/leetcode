@@ -1,24 +1,16 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def deleteDuplicates(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
-        # iterate through sllist, if the current node is the same as the previous,
-        # skip it until we reach a unique value.
-        # [1, 1, 2, 3, 3] --> [1, 2, 3]
-        #  ^  ^
-        # [1, 2, 3, 3]
-        #     ^  ^
-        pointer = head
-        while pointer is not None and pointer.next is not None:
-            if pointer.val == pointer.next.val:
-                pointer.next = pointer.next.next
+class Solution:
+    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        curr = head
+        
+        while curr is not None and curr.next is not None:
+            if curr.val == curr.next.val:
+                curr.next = curr.next.next
             else:
-                pointer = pointer.next
+                curr = curr.next
+                
         return head
