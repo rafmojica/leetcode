@@ -15,6 +15,7 @@ leetcode repository pushing all successful attempts to questions
 | [0206-reverse-linked-list](https://github.com/rafmojica/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rafmojica/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rafmojica/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rafmojica/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ leetcode repository pushing all successful attempts to questions
 | [0392-is-subsequence](https://github.com/rafmojica/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/rafmojica/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rafmojica/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
