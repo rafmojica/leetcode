@@ -6,9 +6,7 @@
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        kFirst = dummy
-        kEnd = dummy
-        end = dummy
+        kFirst = kEnd = end = dummy
 
         for _ in range(k):
             kFirst = kFirst.next
@@ -18,8 +16,6 @@ class Solution:
             end = end.next
             kEnd = kEnd.next
 
-        kEndVal = kEnd.val
-        kEnd.val = kFirst.val
-        kFirst.val = kEndVal
+        kFirst.val, kEnd.val = kEnd.val, kFirst.val
 
         return dummy.next
