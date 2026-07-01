@@ -58,6 +58,7 @@ leetcode repository pushing all successful attempts to questions
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/rafmojica/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -84,6 +85,7 @@ leetcode repository pushing all successful attempts to questions
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
+| [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rafmojica/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -145,6 +147,7 @@ leetcode repository pushing all successful attempts to questions
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rafmojica/leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
