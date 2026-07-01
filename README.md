@@ -57,6 +57,7 @@ leetcode repository pushing all successful attempts to questions
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rafmojica/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/rafmojica/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@ leetcode repository pushing all successful attempts to questions
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/rafmojica/leetcode/tree/master/1391-counting-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rafmojica/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/rafmojica/leetcode/tree/master/1619-path-crossing) |
 | [1848-sum-of-unique-elements](https://github.com/rafmojica/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -196,6 +198,7 @@ leetcode repository pushing all successful attempts to questions
 | [0383-ransom-note](https://github.com/rafmojica/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rafmojica/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/rafmojica/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rafmojica/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
