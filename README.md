@@ -117,6 +117,7 @@ leetcode repository pushing all successful attempts to questions
 | [0344-reverse-string](https://github.com/rafmojica/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rafmojica/leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rafmojica/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/rafmojica/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rafmojica/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -155,6 +156,7 @@ leetcode repository pushing all successful attempts to questions
 | [0392-is-subsequence](https://github.com/rafmojica/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rafmojica/leetcode/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
@@ -168,6 +170,7 @@ leetcode repository pushing all successful attempts to questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rafmojica/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -232,4 +235,8 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
