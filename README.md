@@ -61,6 +61,7 @@ leetcode repository pushing all successful attempts to questions
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/rafmojica/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1813-maximum-erasure-value](https://github.com/rafmojica/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/rafmojica/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -91,6 +92,7 @@ leetcode repository pushing all successful attempts to questions
 | [1510-find-lucky-integer-in-an-array](https://github.com/rafmojica/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/rafmojica/leetcode/tree/master/1619-path-crossing) |
+| [1813-maximum-erasure-value](https://github.com/rafmojica/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/rafmojica/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -212,6 +214,7 @@ leetcode repository pushing all successful attempts to questions
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1813-maximum-erasure-value](https://github.com/rafmojica/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/rafmojica/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rafmojica/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Prefix Sum
