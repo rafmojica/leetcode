@@ -1,8 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        # at least one (), [], {} pair is guaranteed to be next to each other.
-        while '()' in s or '[]' in s or '{}' in s:
-            s = s.replace ('()', '')
-            s = s.replace ('[]', '')
-            s = s.replace ('{}', '')
-        return s == ''
+        stack = []
+        pair = {")": "(", "}": "{", "]": "["}
+
+        for p in s:
+            if p in pair and len(stack) > 0 and pair[p] == stack[-1]:
+                stack.pop()
+            else:
+                stack.append(p)
+
+        return not stack
