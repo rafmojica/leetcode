@@ -5,4 +5,9 @@ class Solution:
         for num in arr:
             freq[num] = freq.get(num, 0) + 1
 
-        return max([v if v == k else -1 for k, v in freq.items()])
+        maxElem = -1
+        for k, v in freq.items():
+            if v == k:
+                maxElem = max(maxElem, v)
+
+        return maxElem
