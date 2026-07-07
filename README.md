@@ -149,6 +149,7 @@ leetcode repository pushing all successful attempts to questions
 | [0012-integer-to-roman](https://github.com/rafmojica/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rafmojica/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/rafmojica/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rafmojica/leetcode/tree/master/0344-reverse-string) |
@@ -166,6 +167,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rafmojica/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rafmojica/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/rafmojica/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
