@@ -162,6 +162,7 @@ leetcode repository pushing all successful attempts to questions
 | [1297-maximum-number-of-balloons](https://github.com/rafmojica/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/rafmojica/leetcode/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/rafmojica/leetcode/tree/master/1666-make-the-string-great) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rafmojica/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
@@ -174,6 +175,7 @@ leetcode repository pushing all successful attempts to questions
 | [0234-palindrome-linked-list](https://github.com/rafmojica/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/rafmojica/leetcode/tree/master/1666-make-the-string-great) |
 ## Design
 |  |
 | ------- |
