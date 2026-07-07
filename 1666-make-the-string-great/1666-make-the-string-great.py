@@ -11,7 +11,7 @@ class Solution:
         for c in s:
             if stack:
                 prev = stack[-1]
-                if (prev != c and prev == c.lower()) or (prev != c and prev == c.upper()):
+                if prev != c and prev.lower() == c.lower():
                     stack.pop()
                     continue
             stack.append(c)
