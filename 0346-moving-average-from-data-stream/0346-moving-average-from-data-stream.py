@@ -1,23 +1,33 @@
 import collections
 
 class MovingAverage:
-    # 1. initialize window size and empty queue when upon creation
+    # 1. initialize window size and empty queue upon class creation
     # when next is called:
-    # 2. if queue length is greater than window size, popleft and append new val
+    # 2. if queue length is equal window size, popleft and append new val
     # 3. otherwise, add the val to queue
     # 4. return sum(queue) / queue length
+
+    # without using sum() (faster)
+    # 1. initialize window size, empty queue AND curr sum upon class creation
+    # when next is called:
+    # 2. if queue > size, save popleft, update currSum += val - popLeft
+    # 3. add val to queue regardless, update currSum += val
+    # 4. return currSum / len(queue)
     def __init__(self, size: int):
         self.size = size
-        self.queue = collections.deque() 
+        self.queue = collections.deque()
+        self.currSum = 0
 
     def next(self, val: int) -> float:
         if len(self.queue) == self.size:
-            self.queue.popleft()
-        self.queue.append(val)
+            leftmostVal = self.queue.popleft()
+            self.currSum += val - leftmostVal
+        else:
+            self.currSum += val
         
-        return sum(self.queue) / len(self.queue)
+        self.queue.append(val)
 
-# [5, 4, 3, 2, 1, 1]
+        return self.currSum / len(self.queue)
 
 # Your MovingAverage object will be instantiated and called as such:
 # obj = MovingAverage(size)
