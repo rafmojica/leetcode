@@ -47,6 +47,7 @@ leetcode repository pushing all successful attempts to questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rafmojica/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
+| [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -182,6 +183,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
+| [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -245,4 +247,12 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
