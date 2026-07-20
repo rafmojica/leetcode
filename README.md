@@ -52,6 +52,7 @@ leetcode repository pushing all successful attempts to questions
 | [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -176,6 +177,7 @@ leetcode repository pushing all successful attempts to questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rafmojica/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/rafmojica/leetcode/tree/master/1666-make-the-string-great) |
@@ -255,4 +257,8 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
