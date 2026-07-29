@@ -49,6 +49,7 @@ leetcode repository pushing all successful attempts to questions
 | [0268-missing-number](https://github.com/rafmojica/leetcode/tree/master/0268-missing-number) |
 | [0346-moving-average-from-data-stream](https://github.com/rafmojica/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rafmojica/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rafmojica/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -86,6 +87,7 @@ leetcode repository pushing all successful attempts to questions
 | [0347-top-k-frequent-elements](https://github.com/rafmojica/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rafmojica/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/rafmojica/leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/rafmojica/leetcode/tree/master/0525-contiguous-array) |
 | [0782-jewels-and-stones](https://github.com/rafmojica/leetcode/tree/master/0782-jewels-and-stones) |
 | [1098-largest-unique-number](https://github.com/rafmojica/leetcode/tree/master/1098-largest-unique-number) |
@@ -177,6 +179,7 @@ leetcode repository pushing all successful attempts to questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rafmojica/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rafmojica/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rafmojica/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -260,5 +263,6 @@ leetcode repository pushing all successful attempts to questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
