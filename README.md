@@ -64,6 +64,7 @@ leetcode repository pushing all successful attempts to questions
 | [1510-find-lucky-integer-in-an-array](https://github.com/rafmojica/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rafmojica/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/rafmojica/leetcode/tree/master/1547-destination-city) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/rafmojica/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/rafmojica/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/rafmojica/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -185,6 +186,7 @@ leetcode repository pushing all successful attempts to questions
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/rafmojica/leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/rafmojica/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -271,4 +273,5 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
