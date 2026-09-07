@@ -57,6 +57,7 @@ leetcode repository pushing all successful attempts to questions
 | [0792-binary-search](https://github.com/rafmojica/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/rafmojica/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rafmojica/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1061-number-of-valid-subarrays](https://github.com/rafmojica/leetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1098-largest-unique-number](https://github.com/rafmojica/leetcode/tree/master/1098-largest-unique-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rafmojica/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rafmojica/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -185,6 +186,7 @@ leetcode repository pushing all successful attempts to questions
 | [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/rafmojica/leetcode/tree/master/0874-backspace-string-compare) |
+| [1061-number-of-valid-subarrays](https://github.com/rafmojica/leetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rafmojica/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/rafmojica/leetcode/tree/master/1666-make-the-string-great) |
@@ -273,5 +275,6 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rafmojica/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
+| [1061-number-of-valid-subarrays](https://github.com/rafmojica/leetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
