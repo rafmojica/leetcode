@@ -1,18 +1,17 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
-        # worst case O(n^2) (no discounts)
-        res = []
+        # store index of prices in stack
+        # if prices[top of stack] is >= current price, pop stack and update values by subtracting.
+        # keep appending index if elem is not greater than the next.
+        
+        res = prices[:]
+        stack = []
 
         for i in range(len(prices)):
-            curr = prices[i]
-            discounted = curr
+            while stack and prices[stack[-1]] >= prices[i]:
+                res[stack.pop()] -= prices[i]
 
-            for j in range(i + 1, len(prices)):
-                if prices[j] <= curr:
-                    discounted = curr - prices[j]
-                    break
-                
-            res.append(discounted)
+            stack.append(i)
 
         return res
         
