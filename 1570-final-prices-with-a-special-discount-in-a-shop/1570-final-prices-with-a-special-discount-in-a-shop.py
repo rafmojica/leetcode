@@ -6,9 +6,9 @@ class Solution:
 
         stack = []
 
-        for i in range(len(prices)):
-            while stack and prices[stack[-1]] >= prices[i]:
-                prices[stack.pop()] -= prices[i]
+        for i, price in enumerate(prices):
+            while stack and prices[stack[-1]] >= price:
+                prices[stack.pop()] -= price
 
             stack.append(i)
 
