@@ -16,17 +16,16 @@ class Solution:
         for asteroid in asteroids:
             while stack and stack[-1] > 0 and asteroid < 0:
                 if abs(asteroid) > stack[-1]:
-                    stack.pop() # remove smaller asteroid going right
-                else:
+                    stack.pop() # remove existing smaller asteroid going right
+
+                elif abs(asteroid) < stack[-1]: # skip incoming asteroid going left
                     break
 
-            if stack and asteroid < 0:
-                if abs(asteroid) < stack[-1]:
-                    continue
-                if abs(asteroid) == stack[-1]:
+                else: # both asteroids are equal
                     stack.pop()
-                    continue
+                    break
             
-            stack.append(asteroid)
-        
+            else:
+                stack.append(asteroid)
+
         return stack
