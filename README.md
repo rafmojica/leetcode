@@ -40,6 +40,7 @@ leetcode repository pushing all successful attempts to questions
 | ------- |
 | [0001-two-sum](https://github.com/rafmojica/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rafmojica/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rafmojica/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/rafmojica/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rafmojica/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ leetcode repository pushing all successful attempts to questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rafmojica/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rafmojica/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rafmojica/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rafmojica/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/rafmojica/leetcode/tree/master/0125-valid-palindrome) |
@@ -142,6 +144,7 @@ leetcode repository pushing all successful attempts to questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rafmojica/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rafmojica/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rafmojica/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rafmojica/leetcode/tree/master/0242-valid-anagram) |
