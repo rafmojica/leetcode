@@ -11,18 +11,14 @@ class Solution:
         # 2. if we do, reassign pointer to nextPtr, increment ptr and nextPtr.
         # 3. terminate when nextPtr == None
 
-        dummy = ListNode(0, head)
-        ptr = dummy
-        nextPtr = ptr.next
+        sentinel = ListNode(0, head)
+        prev, curr = sentinel, head
 
-        while nextPtr:
-            while nextPtr and nextPtr.val == val:
-                nextPtr = nextPtr.next
+        while curr:
+            if curr.val == val:
+                prev.next = curr.next
             else:
-                ptr.next = nextPtr
-                
-                if nextPtr is not None:
-                    ptr = ptr.next
-                    nextPtr = nextPtr.next
+                prev = curr
+            curr = curr.next
 
-        return dummy.next
+        return sentinel.next
