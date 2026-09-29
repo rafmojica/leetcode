@@ -285,4 +285,20 @@ leetcode repository pushing all successful attempts to questions
 | [0739-daily-temperatures](https://github.com/rafmojica/leetcode/tree/master/0739-daily-temperatures) |
 | [1061-number-of-valid-subarrays](https://github.com/rafmojica/leetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rafmojica/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
