@@ -291,12 +291,14 @@ leetcode repository pushing all successful attempts to questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,4 +311,5 @@ leetcode repository pushing all successful attempts to questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
