@@ -291,6 +291,7 @@ leetcode repository pushing all successful attempts to questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -298,6 +299,7 @@ leetcode repository pushing all successful attempts to questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
@@ -311,5 +313,10 @@ leetcode repository pushing all successful attempts to questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rafmojica/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rafmojica/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rafmojica/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
